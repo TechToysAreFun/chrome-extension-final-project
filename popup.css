@@ -1,0 +1,17 @@
+body {
+    font-size: 1.5em;
+    font-family: "New Century Schoolbook", serif;
+    color: #BFC8AD;
+    background-color: #1A281F;
+    border: 8px solid #90B494;
+    padding: 15px;
+    margin: 0px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+p {
+    font-style: italic;
+    font-size: .7em;
+    font-family: "Apple Chancery", cursive;
+}

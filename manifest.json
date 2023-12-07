@@ -4,6 +4,7 @@
     "version": "0.1.0",
     "description": "Posting stoic quotes",
     "action": {
-        "default_popup": "popup.html"
+        "default_popup": "popup.html",
+        "default_icon": "images/quotation-mark.png"
     }
 }

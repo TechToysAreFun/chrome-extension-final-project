@@ -14,6 +14,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     const newDiv = document.createElement('div');
     newDiv.innerText = myQuote.quote;
 
+    const author = document.createElement('p');
+    author.innerText = myQuote.author;
+
+
     body.appendChild(newDiv);
+    body.appendChild(author);
 
 });
