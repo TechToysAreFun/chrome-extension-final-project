@@ -3,11 +3,12 @@ body {
     font-family: "New Century Schoolbook", serif;
     color: #BFC8AD;
     background-color: #1A281F;
-    border: 8px solid #90B494;
+    border: 4px solid #90B494;
     padding: 15px;
     margin: 0px;
     width: 200px;
     border-radius: 5px;
+    text-align: center;
 }
 
 p {
